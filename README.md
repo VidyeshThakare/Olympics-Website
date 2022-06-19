@@ -7,5 +7,4 @@ There are different section which give a brief about Olympic History, India at I
 Technology used:
 1] HTML
 2] CSS
-3] BootStrap
-4] JavaScript
+
