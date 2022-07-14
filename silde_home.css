@@ -81,13 +81,13 @@ body{
 }
 @keyframes slidebg {
     0%{
-        background-image: url('../home/img 2/banner.jpg');
+        background-image: url('banner.jpg');
     }
     50%{
-        background-image: url('img 2/banner2.png');
+        background-image: url('banner2.png');
     }
     100%{
-        background-image: url('img 2/banner3.jpeg');
+        background-image: url('banner3.jpeg');
     }
 }
 
